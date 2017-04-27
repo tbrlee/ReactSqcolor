@@ -1,0 +1,14 @@
+{
+  "name": "color_square",
+  "version": "1.0.0",
+  "description": "Change square color using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Lee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
